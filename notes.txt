@@ -1,0 +1,3 @@
+shadow hunting switches + duelpad keycaps
+- needs approx. 5mm above the plate to get correct height.  Maybe even lower.
+- this means 2mm of alu cnc and 3mm of acryl
