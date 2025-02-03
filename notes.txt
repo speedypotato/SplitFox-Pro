@@ -19,3 +19,5 @@ shadow hunting switches + duelpad keycaps
 5. s
 6. d
 7. rgb
+
+need to offset leds by 0.5mm inwards, 0.5mm downwards
