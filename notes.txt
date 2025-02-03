@@ -12,12 +12,14 @@ shadow hunting switches + duelpad keycaps
 7. gnd
 
 7 pin zh wasd
-1. gnd
-2. vbus
-3. w
-4. a
-5. s
-6. d
-7. rgb
+1. rgb
+2. right
+3. up
+4. down
+5. left
+6. vbus
+7. gnd
 
-need to offset leds by 0.5mm inwards, 0.5mm downwards
+and then on the mainboard, FLIP these!! due to how the cables are made
+
+need to offset leds by 0.5mm inwards, 0.5mm downwards due to hotswap socket position
