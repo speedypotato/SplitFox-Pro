@@ -4,11 +4,11 @@ shadow hunting switches + duelpad keycaps
 
 7 pin zh usb
 1. gnd
-2. vbus
-3. d+
-4. d-
-5. vbus
-6. gnd
+2. gnd
+3. vbus
+4. d+
+5. d-
+6. vbus
 7. gnd
 
 7 pin zh wasd
