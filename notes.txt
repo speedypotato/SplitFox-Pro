@@ -23,3 +23,6 @@ shadow hunting switches + duelpad keycaps
 and then on the mainboard, FLIP these!! due to how the cables are made
 
 need to offset leds by 0.5mm inwards, 0.5mm downwards due to hotswap socket position
+
+C41014 insertion depth: about 7.28
+so assuming 10mm usb a male depth as standard, this means the usb should be 2.7mm away from board edge
