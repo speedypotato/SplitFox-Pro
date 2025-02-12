@@ -533,7 +533,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "picofox_pcb.step",
+      "step": "splitfox.step",
       "svg": "",
       "vrml": ""
     },
