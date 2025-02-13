@@ -1,4 +1,4 @@
-24380621569117795
+24382360977587998
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99000,6 +99000,13 @@ USB-A-SMD_C41014
 0
 8
 8
+easyeda
+USB-C_SMD-TYPE-C-31-M-12
+
+
+0
+22
+20
 keychron
 BlackPill_STLINK
 STM32F4-based development board with ST-LINK header
