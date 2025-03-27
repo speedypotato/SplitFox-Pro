@@ -74,4 +74,6 @@ Optionals, but things I would include normally:
 Done!  Be sure to post your builds on Discord @ https://discord.gg/MmuKd73XbY or Twitter/X and tag me @SpeedyPotato_
 
 ### Known Issues
+v1.1 SplitFox fixes below issue by changing back to the crystal setup I used to use.  Could also be just a bad batch from v1 as I use a different PCBa for v1.1 too.
+
 With v1, testing has gone fairly smoothly aside from one weird issue, where plugging in an auth dongle causes the controller to freeze/reboot.  If you leave the dongle plugged in all the time, this isn't an issue, but I hope to root cause it someday.  It might be the RP2040 crystal setup or the XC6206 being too weak, but both are also fairly tested in other controllers that don't have issues.  RP2040 crystal setup is new to me but is recommended in RP2040's hardware design guide.  XC6206 is used in production LightFox controllers and those have no issues hotplugging auth devices.
