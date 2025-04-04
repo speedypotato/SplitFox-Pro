@@ -58,22 +58,23 @@ Optionals, but things I would include normally:
 
 ### Basic Assembly Instructions
 0. Flash SplitFox pcb
-1. Plug both ZH cable into SplitFox pcb
-2. Screw in SplitFox pcb into splitfox-body
-3. Plug USB ZH cable into wasd pcb
-4. Screw wasd pcb into splitfox-body
-5. Put splitfox-wasd-1_2mm into topside of splitfox-body, using 93657A501_Nylon Unthreaded Spacer, 1x m3x6, and 1x m3 nut to secure and sandwich together.
-6. Insert shadow hunting switches.  Support sockets from backside when inserting to avoid damage.
-7. Plug USB ZH cable into usb-breakout pcb
-8. Screw in usb-breakout pcb into splitfox-body
-9. Apply 2x splitfox-foot-2mm to splitfox-bottom
-10. Screw in splitfox-bottom to splitfox-body
-11. Add artwork cutout if desired
-12. Screw in splitfox-top to splitfox-body
+1. Plug in OLED and adhere with double sided mounting tape.
+2. Plug both ZH cable into SplitFox pcb
+3. Screw in SplitFox pcb into splitfox-body
+4. Plug WASD ZH cable into wasd pcb
+5. Screw wasd pcb into splitfox-body
+6. Put splitfox-wasd-1_2mm into topside of splitfox-body, using 93657A501_Nylon Unthreaded Spacer, 1x m3x6, and 1x m3 nut to secure and sandwich together.
+7. Insert shadow hunting switches.  Support sockets from backside when inserting to avoid damage.
+8. Plug USB ZH cable into usb-breakout pcb
+9. Screw in usb-breakout pcb into splitfox-body
+10. Apply 2x splitfox-foot-2mm to splitfox-bottom
+11. Screw in splitfox-bottom to splitfox-body
+12. Add artwork cutout if desired
+13. Screw in splitfox-top to splitfox-body
 
 Done!  Be sure to post your builds on Discord @ https://discord.gg/MmuKd73XbY or Twitter/X and tag me @SpeedyPotato_
 
 ### Known Issues
-v1.1 SplitFox fixes below issue by changing back to the crystal setup I used to use.  Could also be just a bad batch from v1 as I use a different PCBa for v1.1 too.
+v1.1 SplitFox fixes below issue by changing back to the crystal setup I used to use.  Could also be just a bad batch from v1 as I used a different PCBa for v1.1 too.
 
 With v1, testing has gone fairly smoothly aside from one weird issue, where plugging in an auth dongle causes the controller to freeze/reboot.  If you leave the dongle plugged in all the time, this isn't an issue, but I hope to root cause it someday.  It might be the RP2040 crystal setup or the XC6206 being too weak, but both are also fairly tested in other controllers that don't have issues.  RP2040 crystal setup is new to me but is recommended in RP2040's hardware design guide.  XC6206 is used in production LightFox controllers and those have no issues hotplugging auth devices.
