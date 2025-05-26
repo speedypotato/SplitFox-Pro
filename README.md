@@ -3,6 +3,8 @@ Split-style Pro Leverless Controller
 
 #### This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
+### Prototype Run For Sale @ https://www.speedylabs.us/product/splitfox-pro-split-fighting-box-pro/ 
+
 ## What's the SplitFox Pro?
 Speedy Labs introduces the SplitFox Pro - Split Fighting Box (Pro)!  This is a split layout leverless controller with 18 action buttons, 6 aux buttons, and a tournament lockout switch running on GP2040-CE.
 
