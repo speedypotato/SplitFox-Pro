@@ -72,6 +72,10 @@ Optionals, but things I would include normally:
 12. Add artwork cutout if desired
 13. Screw in splitfox-top to splitfox-body
 
+### Video Guides
+SplitFox Pro Assembly & Mixbox Setup: https://youtu.be/-rr3WSn5i6s  
+SplitFox Pro LED Setup (Beta): https://youtu.be/0wB09UQQ0kg
+
 Done!  Be sure to post your builds on Discord @ https://discord.gg/MmuKd73XbY or Twitter/X and tag me @SpeedyPotato_
 
 ### Known Issues
