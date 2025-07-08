@@ -1,0 +1,1 @@
+config is at https://github.com/speedypotato/GP2040-CE/tree/feature/splitfox-pro-rgb-refactor
